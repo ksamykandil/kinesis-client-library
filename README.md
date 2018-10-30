@@ -1,6 +1,8 @@
 # kinesis-client-library-rust
 This KCL reads data from Kinesis Stream and push the data to Elasticsearch & S3.
 
+Installation: runs in a docker container.
+
 It's partially an equivalent to Kinesis Firehose which will be much way cheaper as it can run 
 in a very constraint resource environment.
 
