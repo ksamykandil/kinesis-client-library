@@ -1,6 +1,4 @@
 # kinesis-client-library-rust
-Kinesis Client Library in Rust
-
 This KCL reads data from Kinesis Stream and push the data to Elasticsearch & S3.
 
 It's partially an equivalent to Kinesis Firehose which will be much way cheaper as it can run 
